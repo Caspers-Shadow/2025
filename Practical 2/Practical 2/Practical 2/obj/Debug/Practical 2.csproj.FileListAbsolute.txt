@@ -1,0 +1,15 @@
+C:\Users\43054226\source\repos\Practical 2\Practical 2\bin\Debug\BookClub.mdf
+C:\Users\43054226\source\repos\Practical 2\Practical 2\bin\Debug\BookClub_log.ldf
+C:\Users\43054226\source\repos\Practical 2\Practical 2\bin\Debug\Practical 2.exe.config
+C:\Users\43054226\source\repos\Practical 2\Practical 2\bin\Debug\Practical 2.exe
+C:\Users\43054226\source\repos\Practical 2\Practical 2\bin\Debug\Practical 2.pdb
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical 2.csproj.AssemblyReference.cache
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical_2.Form1.resources
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical_2.frmAllBooks.resources
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical_2.Properties.Resources.resources
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical_2.frmSelectGenre.resources
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical 2.csproj.GenerateResource.cache
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical 2.csproj.CoreCompileInputs.cache
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical 2.exe
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical 2.pdb
+C:\Users\43054226\source\repos\Practical 2\Practical 2\obj\Debug\Practical_2.Form2.resources

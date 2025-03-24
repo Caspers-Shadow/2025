@@ -1,0 +1,13 @@
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\bin\Debug\Movies.mdf
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\bin\Debug\Movies_log.ldf
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\bin\Debug\Practcal 3.exe.config
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\bin\Debug\Practcal 3.exe
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\bin\Debug\Practcal 3.pdb
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal 3.csproj.AssemblyReference.cache
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal_3.Form1.resources
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal_3.frmDVDNew.resources
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal_3.Properties.Resources.resources
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal 3.csproj.GenerateResource.cache
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal 3.csproj.CoreCompileInputs.cache
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal 3.exe
+C:\Users\43054226\source\repos\Practcal 3\Practcal 3\obj\Debug\Practcal 3.pdb
