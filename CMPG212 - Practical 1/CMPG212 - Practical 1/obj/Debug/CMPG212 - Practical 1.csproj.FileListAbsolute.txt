@@ -1,0 +1,12 @@
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\bin\Debug\Employee.mdf
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\bin\Debug\Employee_log.ldf
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\bin\Debug\CMPG212 - Practical 1.exe.config
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\bin\Debug\CMPG212 - Practical 1.exe
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\bin\Debug\CMPG212 - Practical 1.pdb
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212 - Practical 1.csproj.AssemblyReference.cache
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212___Practical_1.Form1.resources
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212___Practical_1.Properties.Resources.resources
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212 - Practical 1.csproj.GenerateResource.cache
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212 - Practical 1.csproj.CoreCompileInputs.cache
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212 - Practical 1.exe
+C:\Users\43054226\source\repos\CMPG212 - Practical 1\CMPG212 - Practical 1\obj\Debug\CMPG212 - Practical 1.pdb

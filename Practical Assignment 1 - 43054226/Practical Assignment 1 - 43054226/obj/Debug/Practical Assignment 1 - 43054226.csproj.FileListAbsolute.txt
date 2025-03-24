@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\bin\Debug\Employees.mdf
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\bin\Debug\Employees_log.ldf
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\bin\Debug\Practical Assignment 1 - 43054226.exe.config
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\bin\Debug\Practical Assignment 1 - 43054226.exe
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\bin\Debug\Practical Assignment 1 - 43054226.pdb
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical_Assignment_1___43054226.Form1.resources
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical_Assignment_1___43054226.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.exe
+C:\Users\User\OneDrive\Documents\2025\CMPG 212\Practical Assignment 1 - 43054226\Practical Assignment 1 - 43054226\obj\Debug\Practical Assignment 1 - 43054226.pdb
