@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|c:\\users\\user\\onedrive\\desktop\\github files\\2025\\practical 6\\practical 6\\courseregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|solutionrelative:practical 6\\courseregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\practical 6\\courseregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|solutionrelative:practical 6\\courseregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Practical 6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\practical 6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52248D01-1109-401B-A52C-36B5C06C29B7}|Practical 6\\Practical 6.csproj|solutionrelative:practical 6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseRegistration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\CourseRegistration.aspx.cs",
+              "RelativeDocumentMoniker": "Practical 6\\CourseRegistration.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\CourseRegistration.aspx.cs",
+              "RelativeToolTip": "Practical 6\\CourseRegistration.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:52:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practical 6",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\Practical 6.csproj",
+              "RelativeDocumentMoniker": "Practical 6\\Practical 6.csproj",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\Practical 6.csproj",
+              "RelativeToolTip": "Practical 6\\Practical 6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T05:47:23.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\Web.config",
+              "RelativeDocumentMoniker": "Practical 6\\Web.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\Web.config",
+              "RelativeToolTip": "Practical 6\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T05:45:00.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseRegistration.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\CourseRegistration.aspx",
+              "RelativeDocumentMoniker": "Practical 6\\CourseRegistration.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Github files\\2025\\Practical 6\\Practical 6\\CourseRegistration.aspx",
+              "RelativeToolTip": "Practical 6\\CourseRegistration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-26T05:17:00.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
