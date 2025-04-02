@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 7\\practical 7\\pizza.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\pizza.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 7\\practical 7\\pizza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\pizza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 7\\practical 7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Web.config",
+              "RelativeDocumentMoniker": "Practical 7\\Web.config",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Web.config",
+              "RelativeToolTip": "Practical 7\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-02T06:15:50.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pizza.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Pizza.aspx.cs",
+              "RelativeDocumentMoniker": "Practical 7\\Pizza.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Pizza.aspx.cs",
+              "RelativeToolTip": "Practical 7\\Pizza.aspx.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:46:12.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Pizza.aspx",
+              "RelativeDocumentMoniker": "Practical 7\\Pizza.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Pizza.aspx",
+              "RelativeToolTip": "Practical 7\\Pizza.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-02T05:28:10.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
