@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\pizza.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 7\\practical 7\\pizza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\practical 7\\pizza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\pizza.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 7\\practical 7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\practical 7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B337FF89-A344-40D6-AB1E-F1FC7FB13EB7}|Practical 7\\Practical 7.csproj|solutionrelative:practical 7\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Practical 7\\Pizza.aspx.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 7\\Practical 7\\Pizza.aspx.cs",
               "RelativeToolTip": "Practical 7\\Pizza.aspx.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwE4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T05:46:12.829Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Practical 7\\Pizza.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-02T05:28:10.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T05:28:10.248Z"
             }
           ]
         }

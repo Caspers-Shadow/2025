@@ -49,6 +49,24 @@ namespace Practical_7
             //Because the have to add a topping this will automatically have R5 included 
             total += 5m;
 
+            if (rdThin.Checked)
+            {
+                total += thin;
+            }
+            else if (rdThick.Checked)
+            {
+                total += thick;
+            }
+            else
+            {
+                if (!rdThick.Checked && !rdThin.Checked)
+                {
+                    lblOutput.Text = "Specify a crust type";
+                    return;
+                }
+
+            }
+
             if (!decimal.TryParse(txtTip.Text, out tip))
             {
                 lblOutput.Text = "Thats not a valid number";
@@ -63,23 +81,7 @@ namespace Practical_7
 
         protected void radButton_CheckChanged(object sender, EventArgs e)
         {
-            if (rdThin.Checked)
-            {
-                total += thin;
-            }
-            else if (rdThick.Checked)
-            {
-                total += thick;
-            }
-            else 
-            {
-                if (!rdThick.Checked && !rdThin.Checked)
-                {
-                    lblOutput.Text = "Specify a crust type";
-                    return;
-                }
-                
-            }
+            
         }
 
         protected void chkTrip_CheckedChanged(object sender, EventArgs e)
