@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC8BCD-0C8B-436F-86CB-ECC7E9C65475}|Practical 9\\Practical 9.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 9\\practical 9\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BC8BCD-0C8B-436F-86CB-ECC7E9C65475}|Practical 9\\Practical 9.csproj|solutionrelative:practical 9\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BC8BCD-0C8B-436F-86CB-ECC7E9C65475}|Practical 9\\Practical 9.csproj|c:\\users\\user\\onedrive\\documents\\github\\2025\\practical 9\\practical 9\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{99BC8BCD-0C8B-436F-86CB-ECC7E9C65475}|Practical 9\\Practical 9.csproj|solutionrelative:practical 9\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 9\\Practical 9\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Practical 9\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 9\\Practical 9\\Default.aspx.cs",
+              "RelativeToolTip": "Practical 9\\Default.aspx.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:43:27.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 9\\Practical 9\\Default.aspx",
+              "RelativeDocumentMoniker": "Practical 9\\Default.aspx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documents\\GitHub\\2025\\Practical 9\\Practical 9\\Default.aspx",
+              "RelativeToolTip": "Practical 9\\Default.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-07T05:52:44.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

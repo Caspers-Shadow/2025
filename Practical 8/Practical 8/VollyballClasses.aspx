@@ -31,7 +31,7 @@
             <tr>
                 <td class="auto-style1">&nbsp;</td>
                 <td class="auto-style2">
-                    <asp:Image ID="Image1" runat="server" Width="94px" />
+                    <asp:Image ID="Image1" runat="server" Width="94px" ImageUrl="~/NWU-Stacked-Logo-Purple-Digital.png" />
                 </td>
                 <td class="auto-style5">
                     <asp:Label ID="Label1" runat="server" Font-Size="X-Large" ForeColor="#990099" Text="Virtual Volleyball Coaching Class Booking"></asp:Label>
@@ -100,6 +100,7 @@
         </table>
         <div>
         </div>
+        <asp:Image ID="Image2" runat="server" Height="45px" ImageAlign="Baseline" ImageUrl="~/pngtree-volleyball-match-close-up-image_15869285.jpg" Width="39px" />
     </form>
 </body>
 </html>
